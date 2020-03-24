@@ -1,0 +1,23 @@
+
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.main-form {
+    background-image: url(../img/form-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.main-form h1,
+.main-form h2 {
+    color: #fff;
+}
+
+.main-form p {
+    color: #c2c2cc;
+}
